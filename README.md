@@ -10,6 +10,17 @@ A simple desktop calculator application built using Java Swing. It performs basi
 ## Requirements
 - Java Development Kit (JDK) 8 or higher
 
-## How to Run
+### Run
 
-1. 
+ Compression .class:
+   ```bash
+   javac App.java
+   ```
+
+ Run the compressed file:
+   ```bash
+   java App
+   ```
+#### License
+
+Show the [License](LICENSE) file
